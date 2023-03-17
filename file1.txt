@@ -1,0 +1,3 @@
+The first line is added to the file
+The second line is added to the file
+The third line is added to the file
